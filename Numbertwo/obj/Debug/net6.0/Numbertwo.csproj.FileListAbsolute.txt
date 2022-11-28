@@ -1,0 +1,5 @@
+D:\Vs\Numbertwo\obj\Debug\net6.0\Numbertwo.csproj.AssemblyReference.cache
+D:\Vs\Numbertwo\obj\Debug\net6.0\Numbertwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs\Numbertwo\obj\Debug\net6.0\Numbertwo.AssemblyInfoInputs.cache
+D:\Vs\Numbertwo\obj\Debug\net6.0\Numbertwo.AssemblyInfo.cs
+D:\Vs\Numbertwo\obj\Debug\net6.0\Numbertwo.csproj.CoreCompileInputs.cache

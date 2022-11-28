@@ -1,0 +1,15 @@
+D:\Vs\NumberOne\obj\Debug\net6.0\NumberOne.csproj.AssemblyReference.cache
+D:\Vs\NumberOne\obj\Debug\net6.0\NumberOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs\NumberOne\obj\Debug\net6.0\NumberOne.AssemblyInfoInputs.cache
+D:\Vs\NumberOne\obj\Debug\net6.0\NumberOne.AssemblyInfo.cs
+D:\Vs\NumberOne\obj\Debug\net6.0\NumberOne.csproj.CoreCompileInputs.cache
+D:\Vs\NumberOne\bin\Debug\net6.0\NumberOne.exe
+D:\Vs\NumberOne\bin\Debug\net6.0\NumberOne.deps.json
+D:\Vs\NumberOne\bin\Debug\net6.0\NumberOne.runtimeconfig.json
+D:\Vs\NumberOne\bin\Debug\net6.0\NumberOne.dll
+D:\Vs\NumberOne\bin\Debug\net6.0\NumberOne.pdb
+D:\Vs\NumberOne\obj\Debug\net6.0\NumberOne.dll
+D:\Vs\NumberOne\obj\Debug\net6.0\refint\NumberOne.dll
+D:\Vs\NumberOne\obj\Debug\net6.0\NumberOne.pdb
+D:\Vs\NumberOne\obj\Debug\net6.0\NumberOne.genruntimeconfig.cache
+D:\Vs\NumberOne\obj\Debug\net6.0\ref\NumberOne.dll
