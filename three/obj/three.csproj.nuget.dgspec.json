@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Vs\\Firs\\Firs.csproj": {}
+    "D:\\Vs\\three\\three.csproj": {}
   },
   "projects": {
-    "D:\\Vs\\Firs\\Firs.csproj": {
+    "D:\\Vs\\three\\three.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Vs\\Firs\\Firs.csproj",
-        "projectName": "Firs",
-        "projectPath": "D:\\Vs\\Firs\\Firs.csproj",
+        "projectUniqueName": "D:\\Vs\\three\\three.csproj",
+        "projectName": "three",
+        "projectPath": "D:\\Vs\\three\\three.csproj",
         "packagesPath": "C:\\Users\\Дэнчик\\.nuget\\packages\\",
-        "outputPath": "D:\\Vs\\Firs\\obj\\",
+        "outputPath": "D:\\Vs\\three\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Дэнчик\\AppData\\Roaming\\NuGet\\NuGet.Config"

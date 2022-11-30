@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Vs\\Firs\\Firs.csproj",
-      "projectName": "Firs",
-      "projectPath": "D:\\Vs\\Firs\\Firs.csproj",
+      "projectUniqueName": "D:\\Vs\\first\\first.csproj",
+      "projectName": "first",
+      "projectPath": "D:\\Vs\\first\\first.csproj",
       "packagesPath": "C:\\Users\\Дэнчик\\.nuget\\packages\\",
-      "outputPath": "D:\\Vs\\Firs\\obj\\",
+      "outputPath": "D:\\Vs\\first\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Дэнчик\\AppData\\Roaming\\NuGet\\NuGet.Config"
