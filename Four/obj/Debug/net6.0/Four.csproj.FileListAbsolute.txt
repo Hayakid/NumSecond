@@ -1,0 +1,15 @@
+D:\Vs\Four\bin\Debug\net6.0\Four.exe
+D:\Vs\Four\bin\Debug\net6.0\Four.deps.json
+D:\Vs\Four\bin\Debug\net6.0\Four.runtimeconfig.json
+D:\Vs\Four\bin\Debug\net6.0\Four.dll
+D:\Vs\Four\bin\Debug\net6.0\Four.pdb
+D:\Vs\Four\obj\Debug\net6.0\Four.csproj.AssemblyReference.cache
+D:\Vs\Four\obj\Debug\net6.0\Four.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs\Four\obj\Debug\net6.0\Four.AssemblyInfoInputs.cache
+D:\Vs\Four\obj\Debug\net6.0\Four.AssemblyInfo.cs
+D:\Vs\Four\obj\Debug\net6.0\Four.csproj.CoreCompileInputs.cache
+D:\Vs\Four\obj\Debug\net6.0\Four.dll
+D:\Vs\Four\obj\Debug\net6.0\refint\Four.dll
+D:\Vs\Four\obj\Debug\net6.0\Four.pdb
+D:\Vs\Four\obj\Debug\net6.0\Four.genruntimeconfig.cache
+D:\Vs\Four\obj\Debug\net6.0\ref\Four.dll

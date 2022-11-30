@@ -1,0 +1,15 @@
+D:\Vs\Firs\bin\Debug\net6.0\Firs.exe
+D:\Vs\Firs\bin\Debug\net6.0\Firs.deps.json
+D:\Vs\Firs\bin\Debug\net6.0\Firs.runtimeconfig.json
+D:\Vs\Firs\bin\Debug\net6.0\Firs.dll
+D:\Vs\Firs\bin\Debug\net6.0\Firs.pdb
+D:\Vs\Firs\obj\Debug\net6.0\Firs.csproj.AssemblyReference.cache
+D:\Vs\Firs\obj\Debug\net6.0\Firs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs\Firs\obj\Debug\net6.0\Firs.AssemblyInfoInputs.cache
+D:\Vs\Firs\obj\Debug\net6.0\Firs.AssemblyInfo.cs
+D:\Vs\Firs\obj\Debug\net6.0\Firs.csproj.CoreCompileInputs.cache
+D:\Vs\Firs\obj\Debug\net6.0\Firs.dll
+D:\Vs\Firs\obj\Debug\net6.0\refint\Firs.dll
+D:\Vs\Firs\obj\Debug\net6.0\Firs.pdb
+D:\Vs\Firs\obj\Debug\net6.0\Firs.genruntimeconfig.cache
+D:\Vs\Firs\obj\Debug\net6.0\ref\Firs.dll
